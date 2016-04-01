@@ -9,12 +9,10 @@ out
 
 /run
 /gradle
-*.bat
 *.classpath
 *.project
 /.settings
 /eclipse
-gradlew
 *.txt
 
 *.mtl
