@@ -1,6 +1,5 @@
 build
 output
-.gradle
 .idea
 *.iml
 *.ipr
@@ -8,7 +7,6 @@ output
 out
 
 /run
-/gradle
 *.classpath
 *.project
 /.settings
